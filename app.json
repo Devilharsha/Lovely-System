@@ -21,7 +21,7 @@
    ],
    "buildpacks": [
     {
-      "url": "https://heroku.com/deploy?template=https://github.com/Lovelygf/LovelyXSystem"
+      "url": "https://heroku.com/deploy?template=https://github.com/Devilharsha/Lovely-System"
     },
     {
       "url": "heroku/python"
