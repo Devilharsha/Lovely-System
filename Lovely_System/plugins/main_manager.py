@@ -17,7 +17,7 @@ url_regex = re.compile("(http(s)?://)?t.me/(c/)?(\w+)/(\d+)")
 def get_data_from_url(url: str) -> tuple:
     """
     >>> get_data_from_url("https://t.me/c/1476401326/36963")
-    (1476401326, 36963)
+    (1615607413, 36963)
     """
 
     match = url_regex.match(url)
